@@ -62,7 +62,7 @@ p a:hover {
 #header {
   width: 900px;
   height: 445px;
-  background: url(b_header.jpg) 0 0 no-repeat;
+  background: b_header.jpg 0 0 no-repeat;
   position: center;
 }
 .menu {
