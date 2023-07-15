@@ -46,7 +46,7 @@ p a:hover {
   width: 775px;
   position: relative;
   margin: 0 auto;
-  background: url(../images/b_main.jpg) 0 0 no-repeat;
+  background: url(b_main.jpg) 0 0 no-repeat;
   padding-top: 43px;
 }
 
@@ -62,7 +62,7 @@ p a:hover {
 #header {
   width: 900px;
   height: 445px;
-  background: url(../images/b_header.jpg) 0 0 no-repeat;
+  background: url(b_header.jpg) 0 0 no-repeat;
   position: center;
 }
 .menu {
@@ -112,7 +112,7 @@ p a:hover {
 #welcome h2 {
   height: 45px;
   position: relative;
-  background: url(../images/h_welcome.gif) 0 0 no-repeat;
+  background: url(h_welcome.gif) 0 0 no-repeat;
   margin-bottom: 5px;
 }
 #welcome p {
