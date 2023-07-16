@@ -125,7 +125,7 @@ p a:hover {
 }
 #welcome ul li {
   font: 10px/14px Tahoma, sans-serif;
-  background: url(../images/arrow.gif) 0 3px no-repeat;
+  background: url(arrow.gif) 0 3px no-repeat;
   padding-left: 13px;
   height: 20px;
 }
@@ -141,7 +141,7 @@ p a:hover {
 #special h2 {
   height: auto;
   position: relative;
-  background: url(../images/h_pizza.gif) 0 0 no-repeat;
+  background: url(h_pizza.gif) 0 0 no-repeat;
   margin-bottom: 5px;
   width: 100%   ;
 }
